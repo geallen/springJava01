@@ -10,4 +10,4 @@ public class MainApp {
 		HelloWorld obj = (HelloWorld)context.getBean("helloWorld");
 		obj.getMessage();
 	}
-}
+}/*The output : Your message is Hello World!*/
